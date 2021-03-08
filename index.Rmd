@@ -1,0 +1,42 @@
+---
+title: "Mark Scheuerell"
+image: "mark_headshot.jpeg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/mark_scheuerell"
+  - label: GitHub
+    url: "https://github.com/mdscheuerell"
+  - label: Email
+    url: "mailto:scheuerl@uw.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Mark’s research interests lie at the intersection of ecology and management. He is broadly interested in the roles of natural and anthropogenic drivers on freshwater and coastal ecosystems, and the services we derive from them. You can find out more about Mark’s research and teaching interests [here](https://faculty.washington.edu/scheuerl/). Mark also appreciates a healthy work-life balance and in his free time, he enjoys cycling, skiing, and spending time with his family.
+
+## Education
+
+**University of Washington** | Seattle, WA
+
+Ph.D. in Zoology | September 1997 - June 2002
+
+**Cornell University** | Ithaca, NY
+
+M.S. in Fishery and Aquatic Science | August 1993 - December 1995
+
+**University of Wisconsin - Madison** | Madison, WI
+
+B.S. in Zoology | August 1987 - May 1991
+
+## Experience
+
+**U.S. Geological Survey** | Research Ecologist | May 2019 - Present
+
+**University of Washington** | Associate Professor | May 2019 - Present
+
+## Hobbies
+
+I like to ski, cycle, and fish. I also like to watch *Wandavision*.
+
