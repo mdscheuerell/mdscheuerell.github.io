@@ -1,15 +1,6 @@
 ---
-title: "Frank Hermosillo"
-image: "mark_headshot.jpeg"
-links:
-  - label: Twitter
-    url: "https://twitter.com/mark_scheuerell"
-  - label: GitHub
-    url: "https://github.com/mdscheuerell"
-  - label: Email
-    url: "mailto:scheuerl@uw.edu"
-output:
-  postcards::trestles
+title: "Mark"
+output: html_document
 ---
  
 ## Bio
